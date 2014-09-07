@@ -1,0 +1,6 @@
+{
+    "TempDir": "/tmp/",
+    "LogTo": "/tmp/resizer.log",
+    "JpegQuality": 70,
+    "SharpenSigma": 3.0
+}
